@@ -197,7 +197,6 @@ class BankingApp{
         if(account!= null){
         account.CalculateInterset();
         }
-        else
             System.out.println("accoumt not found");
         }
     
